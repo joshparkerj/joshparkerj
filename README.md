@@ -14,7 +14,7 @@ Forked from michaellee2245/group-project
 
 <img src="assets/javascript-language-color.svg" height=12 width=12> JavaScript
 
-[![Node.js CI](https://github.com/joshparkerj/silly-internet-tricks/actions/workflows/node.js.yml/badge.svg)](https://github.com/joshparkerj/silly-internet-tricks/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/joshparkerj/silly-internet-tricks/actions/workflows/node.js.yml/badge.svg)](https://github.com/joshparkerj/silly-internet-tricks/actions/workflows/node.js.yml)[![codecov](https://codecov.io/gh/joshparkerj/silly-internet-tricks/branch/main/graph/badge.svg?token=LGM9K6O97R)](https://codecov.io/gh/joshparkerj/silly-internet-tricks)
 
 ---
 
