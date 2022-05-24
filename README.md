@@ -1,3 +1,11 @@
+# Thank you for visiting my github!
+
+## About Me
+
+My name is Josh Parker, and I'm a web enjoyer. I do silly internet tricks
+
+## My top repos:
+
 ### [monday-ne-dot-com](https://github.com/joshparkerj/monday-ne-dot-com)
 
 Forked from michaellee2245/group-project
