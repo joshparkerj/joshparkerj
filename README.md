@@ -4,6 +4,8 @@
 
 My name is Josh Parker, and I'm a web enjoyer. I do silly internet tricks
 
+- For my portfolio github, please visit https://github.com/joshparkerj-portfolio
+
 ## My top repos:
 
 ### [monday-ne-dot-com](https://github.com/joshparkerj/monday-ne-dot-com)
