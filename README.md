@@ -8,9 +8,9 @@ My name is Josh Parker, and I'm a web enjoyer. I do silly internet tricks
 
 ## My top repos:
 
-### [monday-ne-dot-com](https://github.com/joshparkerj/monday-ne-dot-com)
+### [mundane](https://github.com/joshparkerj/mundane)
 
-Forked from michaellee2245/group-project
+DevMountain group project
 
 <img src="assets/javascript-language-color.svg" height=12 width=12> JavaScript
 
